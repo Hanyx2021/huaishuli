@@ -1,0 +1,18 @@
+1 Pollute 0 0 10
+20 Pollute 4 1 100
+30 Block 0 4
+35 PutLeft 2 2
+70 Unput 3 4
+71 Unput 3 5
+100 Unblock 1 5
+105 Block 2 5
+115 PutUp 3 3
+131 Pollute 1 0 10
+150 Unput 3 3
+153 Unblock 3 1
+156 Block 4 1
+170 Unblock 0 4
+200 PutDown 3 3
+215 Unblock 1 6
+220 Pollute 0 6 20
+250 PutUp 3 6
